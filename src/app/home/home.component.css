@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:400,700');
+
+
+.home-inner {
+	background-image: url(/src/assets/img/linkedinCLT.jpg) no-repeat center center fixed ;
+}
+
+.caption {
+	width: 100%;
+	max-width: 100%;
+	position: absolute;
+	top: 38%;
+	z-index: 1;
+	color:white;
+	text-transform: uppercase;
+}
+
+.caption h1 {
+	font-size: 3.8rem;
+	font-weight: 700;
+	letter-spacing: .3rem;
+	text-shadow: .1rem .1rem .8rem black;
+	padding-bottom: 1rem;
+}
+
+.caption h3 {
+	font-size: 2rem;
+	text-shadow: .1rem .1rem .5rem black;
+}
+
+.btn-lg {
+	border-width: medium;
+	border-radius: 0;
+	padding: .6rem 1.3rem;
+	font-size: 1.1rem;
+}
+
+.jumbotron h1 {
+	text-align: center;
+}
